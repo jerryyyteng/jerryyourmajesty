@@ -1,0 +1,47 @@
+body{
+  background-color:#50cff2;
+  text-align:
+}
+header{
+  color:#1051a1;
+  font-size:500%;
+}
+h1{
+  color:#1a467d;
+  font-style:italic;
+  font-size:300%;
+}
+p{
+  color:#242b8c;
+  font-size:150%;
+}
+h2{
+  color:slateblue;
+  font-style:italic;
+  font-size: 300%;
+}
+h3{
+  color:dodgerblue;
+  font-style:italic;
+  font-size: 300%;
+}
+h4{
+  color:dodgerblue;
+  font-style:italic;
+  font-size: 300%;
+}
+h5{
+  color:dodgerblue;
+  font-style:italic;
+  font-size: 300%;
+}
+li{
+  color:dodgerblue;
+}
+.important{
+  font-size:24px;
+}
+.whatever{
+  background-color: darkblue;
+  border: 3px solid blue;
+}
